@@ -1,1 +1,2 @@
+To download the dataset, use kaggle's interface at https://www.kaggle.com/greg115/celebrities-100k
 To train the program, unpack celebrities-100k to this directory (no subfolders)
