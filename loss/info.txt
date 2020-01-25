@@ -1,0 +1,3 @@
+Note that the loss graphs in this directory are largely empty because of initial code error to do with pyplot.
+Because of the lack of GUI large segments of code were blocked out as a workaround, accidentally so the showSamples and summEpoch functions.
+As such these were only capable of being generated on reruns, for which time was much more limited.

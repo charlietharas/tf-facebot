@@ -1,0 +1,1 @@
+To train the program, unpack celebrities-100k to this directory (no subfolders)
